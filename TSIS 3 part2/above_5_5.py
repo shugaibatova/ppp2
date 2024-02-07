@@ -87,22 +87,5 @@ def above_5_5(movie):
 print (above_5_5(movies))
 
 
-# def more_5_5(movie): 
-#     return movie["imdb"] > 5.5
 
-# def movies_above5_5(movies):
-#     return [movie["name"] for movie in movies if movie["imdb"] > 5.5]
-
-# print(movies_above5_5(movies))
-
-# def ByCategory(movies, category):
-#     return [movie['name'] for movie in movies if movie["category"] == category]
-
-# def imdbAVG(movies):
-#     return sum([movie["imdb"] for movie in movies]) / len(movies)
-
-# def Category_imdbAVG(movies, category):
-#     avgsum = sum([movie["imdb"] for movie in movies if movie["category"] == category]) 
-#     return avgsum / len(movies)
-# above_5_5(movies)
 
