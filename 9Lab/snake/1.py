@@ -2,9 +2,9 @@ import pygame
 import random
 
 pygame.init()
-snake_color = (0, 255, 0)
-back_color = (0, 0, 0)
-tamaq = (255, 165, 0)
+snake_color = (128, 0, 128)
+back_color = (128, 128, 128)
+tamaq = (255, 255, 0)
 color_go = (255, 0, 0)
 # Screen size
 width = 500

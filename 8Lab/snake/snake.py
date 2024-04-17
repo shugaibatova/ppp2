@@ -2,7 +2,7 @@ import pygame
 import random
 
 pygame.init()
-snake_color = (0, 128, 128)
+snake_color = (128, 0, 128)
 back_color = (128, 128, 128)
 tamaq = (255, 255, 0)
 score_coun = (255, 0, 0)
